@@ -1,1 +1,3 @@
+local coins = player:GetService:Connect:function(king)
 
+end
